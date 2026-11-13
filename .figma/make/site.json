@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-first PWA offers secure access for users to manage mortgage applications, featuring a user-friendly interface and personalized branding.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
